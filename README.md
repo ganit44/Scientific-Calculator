@@ -1,4 +1,4 @@
 Scientific-Calculator
 =====================
 
-A Java Scientific Calculator having trogonometric, lograthimic, exoponential and Base-N Utilities
+A Java Scientific Calculator having trigonometric, lograthimic, exoponential and Base-N Utilities
